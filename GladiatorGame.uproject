@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CAA90A5C-4F63-36C3-DB0F-259D49A8BD0D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GladiatorGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule",
+				"UMG"
+			]
+		}
+	]
+}
